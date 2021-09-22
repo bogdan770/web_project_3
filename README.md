@@ -4,4 +4,6 @@
 
 3. I this project i used grid, it looks like more functionality than flex. Same most of my width in % or i count it, it gives to my page more possibility to be opened on dif. devices And media queries, it change my value in my CSS code.
 
-4.
+4.https://bogdan770.github.io/web_project_3/index.html
+
+i have problems with my project on GITPAGES...
