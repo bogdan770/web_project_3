@@ -1,0 +1,29 @@
+.place__button-link{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    background-color: #0278FE;
+    cursor: pointer;
+    grid-area: button;
+    padding: 13px 20px;
+    text-align: center;
+    order:4;
+    max-width: 208px;
+    max-height: 22px;
+}
+    
+.place__button-link:hover{
+    background-color: #0063D2;
+}
+    
+@media screen and (max-width: 620px) {
+    .place__button-link{
+        padding: 13px 40px;
+        margin: 0 auto;
+    }
+}

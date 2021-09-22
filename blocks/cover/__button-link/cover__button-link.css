@@ -1,0 +1,25 @@
+.cover__button-link{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    background-color: #0278FE;
+    cursor: pointer;
+    grid-area: button;
+    padding: 13px 20px;
+    text-align: center;
+    order:4;
+    max-width: 97px;
+    max-height: 22px;
+    text-align: center;
+    z-index: 4;
+    align-self: center;
+}
+    
+.cover__button-link:hover{
+    background-color: #0063D2;
+}

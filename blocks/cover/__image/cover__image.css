@@ -1,0 +1,13 @@
+.cover__image{
+    background-image: url(../../../images/footer.png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.cover:hover .cover__image {
+    background-color: #2a2c2f;
+    opacity: 0.2;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.place__story{
+    grid-area: text;
+}
+
+@media screen and (max-width: 620px) {
+    .place__story{
+        order: 3;
+    }
+}

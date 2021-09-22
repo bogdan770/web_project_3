@@ -1,0 +1,16 @@
+.place__website{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    align-self: end;
+    grid-area: website;
+}
+
+
+@media screen and (max-width: 620px) {
+    .place__website{
+        order: 1;
+        width: calc(100% - 32px);
+        margin: auto;
+    }
+}
