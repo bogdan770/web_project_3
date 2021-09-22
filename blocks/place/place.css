@@ -23,7 +23,7 @@
 @media screen and (max-width: 620px) {
     .place{
         display: flex;
-        flex-direction: column; 
-        margin-bottom: 48px;   
+        flex-direction: column;
+        margin-bottom: 48px;
     }
 }
