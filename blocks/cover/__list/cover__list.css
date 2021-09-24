@@ -5,6 +5,7 @@
     margin: 0 auto;
     color: white;
     justify-content: center;
+    z-index: 2;
 }
 
 

@@ -15,9 +15,3 @@
         width: 100%;
     }  
 }
-
-@media screen and (max-width: 560px){
-    .intro__text{
-        width: 100%;
-        }   
-}

@@ -5,5 +5,7 @@
 @media screen and (max-width: 620px) {
     .place__story{
         order: 3;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 }

@@ -10,6 +10,12 @@
     align-self: end;
 }
 
+@media screen and (max-width: 1150px) {
+    .place__title{
+        font-size: 52px;
+    }
+}
+
 
 @media screen and (max-width: 968px) {
     .place__title{
@@ -23,6 +29,7 @@
     .place__title{
         font-size: 32px;
         line-height: 35px;
+        margin-bottom: 30px;
         margin-left: 16px;
         order: 0;
         align-self: start;

@@ -1,0 +1,12 @@
+.cover__hover{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: #2A2C2F;
+    opacity: 0.3;  
+    z-index: 1;
+}
+
+.cover:hover .cover__hover{
+    opacity: 0.8;
+}

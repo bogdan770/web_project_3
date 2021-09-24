@@ -15,10 +15,5 @@
     order:4;
     max-width: 97px;
     max-height: 22px;
-    z-index: 4;
     align-self: center;
-}
-    
-.cover__button-link:hover{
-    background-color: #0063D2;
 }
